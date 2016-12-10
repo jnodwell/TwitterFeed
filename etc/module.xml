@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * jnodwell_TwitterFeed
+ *
+ * @category    TwitterFeed
+ * @package     jnodwell_TwitterFeed
+ * @copyright   Copyright (c) 2016 nodwell.net
+ * @author      jennifer@nodwell.net
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+    <module name="jnodwell_TwitterFeed" setup_version="0.1.0">
+    </module>
+</config>
